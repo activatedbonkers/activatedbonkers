@@ -57,14 +57,14 @@ Hello, I'm Syed Hussaini, a Full Stack Developer and Data Science enthusiast bas
 
  ### Connect with me:
 
-[<img align="left" alt="syedhussaini.com" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.png" />][website]
+[<img align="left" alt="syedhussaini.live" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.png" />][website]
 [<img align="left" alt="junaid_nihal | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
-[<img align="left" alt="developwithsyed | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />][linkedin]
+[<img align="left" alt="sjh00 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />][linkedin]
 [<img align="left" alt="junaid.nihal | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram] 
  
  
- [website]: https://syedhussaini.com
+ [website]: https://syedhussaini.live
 [twitter]: https://twitter.com/junaid_nihal
 [instagram]: https://instagram.com/junaid.nihal
-[linkedin]: https://linkedin.com/in/developwithsyed
+[linkedin]: https://linkedin.com/in/sjh00
 //
