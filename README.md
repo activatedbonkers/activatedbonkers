@@ -3,7 +3,7 @@
 
 <h1 align="center"> <img  src="https://media1.giphy.com/media/eX6payp4mjhXwPocoX/giphy.gif?cid=ecf05e474ytmvaxcjkzp1prh4nxf2kdoqnyh1tpfm31e6yj4&rid=giphy.gif&ct=s" width="80"/> 
  
-Hello, I'm Syed Hussaini, a Full Stack Developer and Data Science enthusiast based in Bangalore, India. 🇮🇳
+Hello, I'm Syed Hussaini, a Full Stack Developer based in Bangalore, India. 🇮🇳
 <hr/>
  
 ## Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. 😉
